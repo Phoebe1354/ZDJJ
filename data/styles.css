@@ -7,9 +7,16 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .box_2 {
 }
 .ellipse {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -52,8 +59,21 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._文本段落 {
   text-align:left;
+}
+.line {
+}
+.sticky_3 {
+  text-align:left;
+}
+._流程形状 {
+}
+._连接线 {
 }
 ._形状 {
 }
