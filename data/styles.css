@@ -11,12 +11,15 @@
 }
 .box_2 {
 }
-.ellipse {
+._图片 {
 }
 .button {
 }
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -68,20 +71,52 @@
 }
 .line {
 }
-.sticky_3 {
+.text_field {
+  color:#000000;
   text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.table_cell {
 }
 ._流程形状 {
 }
 ._连接线 {
+  font-family:'PingFangSC-Ultralight', 'PingFang SC Ultralight', 'PingFang SC';
+  font-weight:100;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
 ._形状 {
-}
-._图片 {
-  color:#000000;
-}
-._形状1 {
-}
-._图片1 {
-  color:#000000;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#E4E4E4;
+  text-align:center;
+  line-height:normal;
 }
